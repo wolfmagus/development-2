@@ -1,0 +1,80 @@
+.navBar{
+    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    color: white;
+    
+}
+.navBar2{
+    margin-top:10px;
+    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: auto;
+}
+
+.overlay{
+    background-image: url('https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    margin-bottom: 20px;
+    width: 100%;
+    height: 100%;
+    
+    /* margin-bottom:250px;
+    margin-top:100px; */
+}
+
+
+.header{
+    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size: 85px;
+    /* margin-top:50px; */
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.header2{
+    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size: 24px;
+    margin-bottom:250px;
+    margin-top: -65px;
+    color: white;
+    /* margin: 25px 50px 25px 200px; */
+    text-align: center;
+    padding: 10px;
+    padding-bottom:100px;
+}
+
+/* .spacer{
+    margin-top:250px;
+} */
+
+.postTitle{
+    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size: 30px;
+    margin: 5px 50px 5px 200px;
+    text-align: left;
+    padding: 0px;
+}
+
+.postSubtitle{
+    font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size: 28px;
+    margin: 5px 50px 5px 200px;
+    text-align: left;
+    padding: 5px;
+}
+
+.postDate{
+    font-family:"Times New Roman", serif;
+    font-size: 18px;
+    margin: 5px 50px 5px 200px;
+    text-align: left;
+    padding: 5px;
+}

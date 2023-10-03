@@ -1,0 +1,87 @@
+/* Define the styles for the form container */
+/* .form-container {
+    box-sizing: border-box;
+    padding: 3rem;
+    display: flex;
+    margin: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-family: 'Karla', sans-serif;
+    align-items: center;
+    margin: auto;
+    justify-content: space-around;
+    width: 100%;
+  } */
+  
+  /* Style the input fields */
+  /* input {
+    width: 47%;
+    border-radius: 5px;
+    border: 1px solid rgba(213, 212, 216, 1);
+    height: 2.75rem;
+    text-indent: 5px;
+    margin: 10px;
+  } */
+  
+  /* Style the submit button */
+  /* .submit-button {
+    width: 100%;
+    height: 3.5rem;
+    background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-family: 'karla', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: -0.1em;
+    margin: 10px;
+    cursor: pointer;
+  } */
+  
+  /* Style the meme images */
+  /* .meme-image {
+    box-sizing: border-box;
+    display: flex;
+    max-width: 100%;
+    border-radius: 3px;
+  } */
+  
+  /* Position the text over the image */
+  /* .meme {
+    position: relative;
+  } */
+  
+  /* Style the top and bottom text */
+  /* .meme-text {
+    position: absolute;
+    width: 80%;
+    text-align: center;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 15px 0;
+    padding: 0 5px;
+    font-family: impact, sans-serif;
+    font-size: 3em;
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 1px;
+    text-shadow: 2px 2px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 0 2px 0 #000, 2px 0 0 #000, 0 -2px 0 #000, -2px 0 0 #000, 2px 2px 5px #000;
+  } */
+  
+  /* Position the bottom text at the bottom */
+  /* .bottom {
+    bottom: 0;
+  } */
+  
+  /* Position the top text at the top */
+  /* .top {
+    top: 0;
+  } */
+  
+  /* Style the overflow container for saved memes */
+  /* .over--flow {
+    overflow-y: scroll;
+    height: 60vh;
+  } */
+  
