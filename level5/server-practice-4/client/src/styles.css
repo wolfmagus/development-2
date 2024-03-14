@@ -14,6 +14,30 @@ p {
     margin: 5px;
 }
 
+input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #333;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+button {
+    padding: 5px;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.delete-btn {
+    background-color: firebrick;
+    color: whitesmoke;
+}
+
+.edit-btn {
+    background-color: cornflowerblue;
+    color: whitesmoke;
+}
+
 .movie-container {
     display: flex;
     flex-direction: column;
@@ -25,3 +49,7 @@ p {
     padding: 10px;
     margin: 5px;
 }
+
+
+
+

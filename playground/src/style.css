@@ -1,0 +1,15 @@
+body {
+    background-color: grey;
+  }
+  
+  .App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .container {
+    border: black solid 2px;
+    height: 20vh;
+    margin-bottom: 15px;
+    padding: 15px;
+  }

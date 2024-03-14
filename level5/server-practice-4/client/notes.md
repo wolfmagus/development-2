@@ -1,0 +1,1 @@
+Fragments are invisible divs that are removed upon rendering
